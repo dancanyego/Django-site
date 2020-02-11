@@ -1,4 +1,4 @@
-<!-- <a href="https://codingwithmitch.com/courses/build-a-rest-api/"><img class='header-img' src='https://codingwithmitch.s3.amazonaws.com/static/build-a-rest-api-with-the-django-rest-framework/images/Django_REST-framework_Setup.png' /></a> -->
+
 <a href="https://codingwithmitch.com/courses/build-a-rest-api/"><h1>Build a REST API</h1></a>
 
 <p>In this course you'll learn to build a REST API for a website so other technologies can interact with it.</p>
